@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sherif Saied</h1>
 <h3 align="center">A passionate Embedded Software Engineer</h3>
 
-- 👀 I’m interested in Embedded Software, C language, Python, Java 
+- 👀 I’m interested in Embedded Software, MBD, Software Testing  
 - 🌱 I’m currently learning Embedded Systems.
 - 💞️ I’m looking to collaborate on Embedded Systems Projects.
 - 📫 How to reach me **sherifabdelraheem@gmail.com**.
