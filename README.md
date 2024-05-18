@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherif Saied</h1>
-<h3 align="center">A passionate Embedded Software Engineer</h3>
+<h3 align="center">A passionate Engineer in software automotive industry</h3>
 
 - 👀 I’m interested in Embedded Software, MBD, Software Testing  
 - 🌱 I’m currently learning Embedded Systems.
