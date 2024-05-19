@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sherif Saied</h1>
 <h3 align="center">A passionate Engineer in software automotive industry</h3>
 
-- 👀 I’m interested in Embedded Software, MBD, Software Testing  
-- 🌱 I’m currently learning Embedded Systems.
-- 💞️ I’m looking to collaborate on Embedded Systems Projects.
+- My vision is to continue pioneering the integration of mechanical automotive products with advanced software and data analysis. By harnessing the power of data, I aim to drive the next generation of automotive innovation, focusing on enhancing performance, safety, and efficiency. I am committed to using my skills and knowledge to develop smarter, more reliable vehicles that meet the evolving demands of the industry.
+- 👀 I’m interested in Embedded Software testing, MBD, Software Testing, data management. 
 - 📫 How to reach me **sherifabdelraheem@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
